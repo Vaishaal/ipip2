@@ -14,8 +14,7 @@ Represents a dose point has five fields:
 ```c
 double xC - represents the x coordinate of the point.
 ```
-```
-c
+```c
 double yC - represents the y coordinate of the point.
 ```
 ```c
