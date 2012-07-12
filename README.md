@@ -11,11 +11,11 @@ So far I have just come up with an alogirthm for generating a dose grid in a rea
 
 #Point 
 Represents a dose point has five fields: 
-```C++
+```c
 double xC ``` - represents the x coordinate of the point.
-```C++
+```c
 double yC ``` - represents the y coordinate of the point.
-```C++
+```c
 double zC ``` - represents the z coordinate of the point.
 
 
